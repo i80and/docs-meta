@@ -9,4 +9,8 @@ path: cloud-docs.inv
 name: compassdocs
 url: https://docs.mongodb.com/compass/current/
 path: compass-docs.inv
+---
+name: bi-connector
+url: https://docs-mongodbcom-staging.corp.mongodb.com/9e4a15f/bi-connector/docsworker/v0.6.2-test/
+path: bi-connector.inv
 ...

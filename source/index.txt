@@ -2,6 +2,9 @@
 The MongoDB Documentation Project
 =================================
 
+* :option:`--minimumTLSVersion <mongosqld.--minimumTLSVersion>`
+* :ref:`start-msqld-cli`
+
 .. toctree::
    :titlesonly:
 
